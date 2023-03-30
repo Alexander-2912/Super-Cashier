@@ -320,3 +320,6 @@ def reset_transaction():
 
 ![image](https://user-images.githubusercontent.com/118685091/228757917-d00538db-dea8-4b6f-8dea-69a8a677d57c.png)
 
+5. Melakukan Check Out
+
+![image](https://user-images.githubusercontent.com/118685091/228758730-7bd0d259-8f1d-4ac3-b302-ba4b8422d364.png)
