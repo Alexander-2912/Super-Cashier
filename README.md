@@ -160,7 +160,8 @@ if __name__ == "__main__":
 
 Script module.py digunakan untuk menyimpan function-function yang nantinya akan dipanggil apabila user menginputkan nilai yang sesuai dengan masing-masing kondisi function.
 
-```nama_customer = None
+```
+nama_customer = None
 no_telp = None
 list_customer_barang = []
 ```
