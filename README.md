@@ -297,6 +297,7 @@ def reset_transaction():
 
 ## Test Case
 1. Menambahkan item baru
+
 ![image](https://user-images.githubusercontent.com/118685091/228756228-2a0ac27a-6e17-4601-8074-6e72593e95b2.png)
 ![image](https://user-images.githubusercontent.com/118685091/228756304-66860a3f-f19d-4ba0-b5f1-947d58f1ab6c.png)
 
