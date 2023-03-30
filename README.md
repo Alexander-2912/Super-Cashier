@@ -299,6 +299,7 @@ def reset_transaction():
 1. Menambahkan item baru
 
 ![image](https://user-images.githubusercontent.com/118685091/228756228-2a0ac27a-6e17-4601-8074-6e72593e95b2.png)
+
 ![image](https://user-images.githubusercontent.com/118685091/228756304-66860a3f-f19d-4ba0-b5f1-947d58f1ab6c.png)
 
 2. Menghapus salah satu item
@@ -311,8 +312,11 @@ def reset_transaction():
 
 4. Menambahkan item baru
 
-![image](https://user-images.githubusercontent.com/118685091/228757596-b42c27f1-e224-4886-9487-8273c8ed667e.png)
-![image](https://user-images.githubusercontent.com/118685091/228757656-91f01672-f4b8-4bc5-8caa-f2f03918f635.png)
-![image](https://user-images.githubusercontent.com/118685091/228757804-e0d0ba43-7f67-4cde-9026-1bbf55fbd01f.png)
+![image](https://user-images.githubusercontent.com/118685091/228758217-5cfab657-659a-43b3-bcea-a0b2b010aa85.png)
+
+![image](https://user-images.githubusercontent.com/118685091/228758321-fa8c8322-6865-4a67-9138-cd41bf15f458.png)
+
+![image](https://user-images.githubusercontent.com/118685091/228758397-93e6a93c-2011-4549-a0db-13547c79fa70.png)
+
 ![image](https://user-images.githubusercontent.com/118685091/228757917-d00538db-dea8-4b6f-8dea-69a8a677d57c.png)
 
