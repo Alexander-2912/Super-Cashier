@@ -138,7 +138,7 @@ def main():
         except Exception:
             print("Terdapat kesalahan")
 ```
-
+```
 def menu():
     '''Fungsi untuk menampilkan pilihan-pilihan yang dapat user pilih'''
     print("Menu: ")
@@ -150,3 +150,4 @@ def menu():
     print("6. Check out") #check out
     print("7. Batal belanja") #reset transaction
     print("8. Keluar")
+```
