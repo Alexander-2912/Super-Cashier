@@ -301,3 +301,18 @@ def reset_transaction():
 ![image](https://user-images.githubusercontent.com/118685091/228756228-2a0ac27a-6e17-4601-8074-6e72593e95b2.png)
 ![image](https://user-images.githubusercontent.com/118685091/228756304-66860a3f-f19d-4ba0-b5f1-947d58f1ab6c.png)
 
+2. Menghapus salah satu item
+
+![image](https://user-images.githubusercontent.com/118685091/228756886-0202381f-5902-44ff-8adb-373edf819fcd.png)
+
+3. Menghapus seluruh item
+
+![image](https://user-images.githubusercontent.com/118685091/228757078-c810ceaa-57f8-4f51-8a02-48d68baf9eda.png)
+
+4. Menambahkan item baru
+
+![image](https://user-images.githubusercontent.com/118685091/228757596-b42c27f1-e224-4886-9487-8273c8ed667e.png)
+![image](https://user-images.githubusercontent.com/118685091/228757656-91f01672-f4b8-4bc5-8caa-f2f03918f635.png)
+![image](https://user-images.githubusercontent.com/118685091/228757804-e0d0ba43-7f67-4cde-9026-1bbf55fbd01f.png)
+![image](https://user-images.githubusercontent.com/118685091/228757917-d00538db-dea8-4b6f-8dea-69a8a677d57c.png)
+
