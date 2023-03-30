@@ -25,23 +25,24 @@ Dalam proses pembuatannya, projek ini memiliki beberapa requirements dan objecti
 ## Penjelasan Kode
 Script main.py berfungsi sebagai *Main Class* yang harus di run pertama kali untuk memunculkan program yang telah dibuat. Didalamnya terdapat function main() sebagai fungsi utama dan menu() untuk menampilkan menu yang dapat user pilih.
 
+
 def main():
     '''Fungsi utama untuk menjalankan program
     '''
     while(True):
-                menu()
-                try:
-                    '''membuat exception handling apabila terjadi kesalahan 
-                    atau error dalam program
-                    '''
-                    menu_inp = int(input("Masukan pilihan anda: ") )
-                    if(menu_inp == 1):
-                        '''branching ini akan dijalankan apabila user menginput '1' 
-                        '''
-                        nama_customer = (input("Masukan nama customer: "))
-                        no_telp = (input("Masukan nomor telepon: "))
-                        trnsct_123 = module.transaction(nama_customer, no_telp) # membuat ID transaksi customer 
-                        print("Data customer berhasil diinputkan")
+        menu()
+        try:
+            '''membuat exception handling apabila terjadi kesalahan 
+            atau error dalam program
+            '''
+            menu_inp = int(input("Masukan pilihan anda: ") )
+            if(menu_inp == 1):
+                '''branching ini akan dijalankan apabila user menginput '1' 
+                '''
+                nama_customer = (input("Masukan nama customer: "))
+                no_telp = (input("Masukan nomor telepon: "))
+                trnsct_123 = module.transaction(nama_customer, no_telp) # membuat ID transaksi customer 
+                print("Data customer berhasil diinputkan")
 
             elif menu_inp == 2:
                 '''branching ini akan dijalankan apabila user menginput '2' 
