@@ -322,4 +322,4 @@ def reset_transaction():
 
 5. Melakukan Check Out
 
-![image](https://user-images.githubusercontent.com/118685091/228759020-6424f212-7d31-429d-9580-a4afb8870380.png)
+![image](https://user-images.githubusercontent.com/118685091/228759176-40b90848-eb74-4846-a1d3-197503b3e823.png)
