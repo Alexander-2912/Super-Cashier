@@ -23,7 +23,7 @@ Dalam proses pembuatannya, projek ini memiliki beberapa requirements dan objecti
 15. Langkah 4.0, program selesai
 
 ## Penjelasan Kode
-Script main.py berfungsi sebagai *Main Class* yang harus di run pertama kali untuk memunculkan program yang telah dibuat. Didalamnya terdapat function main() sebagai fungsi utama dan menu() untuk menampilkan menu yang dapat user pilih.
+Script main.py berfungsi sebagai *Main Class* yang harus di run pertama kali untuk memunculkan program yang telah dibuat. Didalamnya terdapat function main() sebagai fungsi utama dan menu() untuk menampilkan menu yang dapat user pilih, dan if function untuk memanggil function lainnya.
 
 ```
 def main():
@@ -150,4 +150,10 @@ def menu():
     print("6. Check out") #check out
     print("7. Batal belanja") #reset transaction
     print("8. Keluar")
+```
+```
+if __name__ == "__main__":
+    '''Digunakan untuk memanggil function main()
+    '''
+    main()
 ```
