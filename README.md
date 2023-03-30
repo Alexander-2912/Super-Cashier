@@ -25,7 +25,7 @@ Dalam proses pembuatannya, projek ini memiliki beberapa requirements dan objecti
 ## Penjelasan Kode
 Script main.py berfungsi sebagai *Main Class* yang harus di run pertama kali untuk memunculkan program yang telah dibuat. Didalamnya terdapat function main() sebagai fungsi utama dan menu() untuk menampilkan menu yang dapat user pilih.
 
-
+```
 def main():
     '''Fungsi utama untuk menjalankan program
     '''
@@ -137,7 +137,7 @@ def main():
 
         except Exception:
             print("Terdapat kesalahan")
-
+```
 
 def menu():
     '''Fungsi untuk menampilkan pilihan-pilihan yang dapat user pilih'''
