@@ -294,3 +294,7 @@ def reset_transaction():
     list_customer_barang.clear()
     return True
 ```
+
+![image](https://user-images.githubusercontent.com/118685091/228755408-9f03871f-3896-4928-86fb-43467b370a3e.png)
+
+
