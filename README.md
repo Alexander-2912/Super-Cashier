@@ -323,3 +323,6 @@ def reset_transaction():
 5. Melakukan Check Out
 
 ![image](https://user-images.githubusercontent.com/118685091/228759176-40b90848-eb74-4846-a1d3-197503b3e823.png)
+
+## Conclusion/Future Work
+Secara singkat, projek yang telah dibuat sudah layak untuk digunakan. Fitur-fitur yang ada sudah teruji performanya yang dibuktikan dengan test case, diantaranya adalah menambahkan item, menghapus item, membatalkan transaksi, dan melakukan check out. Meskipun begitu, program yang telah dibuat dapat ditingkatkan kembali kualitasnya. Misalnya adalah membuat fitur-fitur baru, seperti list item yang tersedia, membuat user interface, tanggal pembelian, dan lain-lain.
